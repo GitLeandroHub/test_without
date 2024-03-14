@@ -116,6 +116,7 @@ module.exports = {
       backgroundImage: theme => ({
         'hero-pattern': "url('./background-images/bg-light-1.png')",
         'hero-pattern-2': "url('./background-images//bg-light-2.png')",
+        'hero-pattern-3': "url('./background-images//bg-light-3.png')",
         'hero-pattern-dark': "url('./background-images//bg-dark-1.png')",
         'hero-pattern-dark-2': "url('./background-images/bg-dark-2.png')",
         'hero-about': "url('./background-images/bg-red-1.jpg')",

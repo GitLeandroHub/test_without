@@ -43,7 +43,7 @@ export default function BlogPage(props: BlogPageProps) {
           </h4>
         </div>
       </section>
-      <section className="mx-4 h-full md:bg-hero-pattern-2 bg-top bg-auto" style={contentSectionStyle}>
+      <section className="mx-4 h-full md:bg-hero-pattern-3 bg-top bg-auto" style={contentSectionStyle}>
         {data.allMdx.edges.slice(0, visibleBlogs).map((edge: any, index: any) => {
           return (
             <article key={index}>
