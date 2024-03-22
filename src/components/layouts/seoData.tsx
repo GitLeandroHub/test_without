@@ -4,24 +4,24 @@ export const websiteData = {
   publisher: {
     '@type': 'Organization',
     name: 'Blockchain Infrastructure for the Decentralised Web',
-    url: 'https://www.parity.io/',
+    url: 'https://blog.kinera.network/',
     logo: {
       '@type': 'ImageObject',
-      url: 'https://www.parity.io/images/parity-logo-square.png',
+      url: 'https://blog.kinera.network/images/parity-logo-square.png',
       width: 60,
       height: 60,
     },
   },
-  url: 'https://www.parity.io/',
+  url: 'https://blog.kinera.network/',
   image: {
     '@type': 'ImageObject',
-    url: 'https://www.parity.io/images/card-image-parity.png',
+    url: 'https://blog.kinera.network/images/card-image-parity.png',
     width: 1600,
     height: 800,
   },
   mainEntityOfPage: {
     '@type': 'WebPage',
-    '@id': 'https://www.parity.io/',
+    '@id': 'https://blog.kinera.network/',
   },
   description:
     'The Kinera Platform - We are a decentralised media platform where users and creators publish their content; help rank and curate videos and films from public repositories and other media networks on the Internet',
